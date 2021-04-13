@@ -11,4 +11,3 @@ write(a[i,j]:3);
 writeln;
 end;
 end.
-
